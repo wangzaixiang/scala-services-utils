@@ -17,3 +17,4 @@
 7. implements schedule & crontab tasks in services.
 8. implements message-queue-endpoints in services.
 9. implements an event-publish-listener framework in services.
+10. Binlog
